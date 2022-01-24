@@ -1,4 +1,4 @@
-# git-config
+# Git
 
 ## Alias
 
